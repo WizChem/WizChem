@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WizChem
+- 👋 Hi, I’m WizChem!
 - 👀 I’m interested in coding and making the world a better place!
 - 🌱 I’m currently learning how to master Javascript, Python & C.
 - 💞️ I’m looking to collaborate on any coding projects related to web development.
